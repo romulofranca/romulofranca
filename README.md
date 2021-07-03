@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=romulofranca.romulofranca)
 
-I'm a Software Reliability Engineer. I love programmming, automate things and a good movie.
+I'm a Software Reliability Engineer. I love programming, automate things and a good movie.
 
 As a SRE, I like to create things that generate value and positively impact people's work. If not to make a difference, better not :)
 
